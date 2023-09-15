@@ -8,5 +8,5 @@ public class kimkeng {
 		System.out.println(name+name2); 
 		System.out.println("hello"); 123
 	}1123
-
+123
 }
